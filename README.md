@@ -1,1 +1,3 @@
-# portfolio.github.io
+# Portfolio of Gijs
+
+TODO: add stuff
