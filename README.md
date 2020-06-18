@@ -48,6 +48,7 @@ https://docs.google.com/document/d/18lmthKy6kgsllIZpcdshQ4XnazigvZ1T5xHTVXVtZyw/
 <img src="https://cdn.discordapp.com/attachments/687958553029509124/707537594350567444/unknown.png" width="500">
 
 <hr/>
+
 ## My Learning Goals
 During this project there were certain things I wanted to learn, these were:
 
