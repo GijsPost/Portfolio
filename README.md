@@ -28,6 +28,21 @@ https://drive.google.com/file/d/19neo2i2T_eMSmQImIujAYExguItMG8xm/view?usp=shari
 ## User Testing
 During the making of this application, we made a lot of assumptions and decisions which need to be proven by User Tests. Unfortunately, the covid-19 crisis was at the height of this project's development so User Testing with our target group (inexperienced VR-users) became quite difficult. Nevertheless we managed to cook up some testplans, one of which was to test with our peers who worked on other VR projects. Because one of my learning goals was learning to user test, the details of the Testing can be found under that learning goal.
 
+<hr/>
+
+## The Things I Made
+
+### Interaction System
+https://imgur.com/oro7IO5
+### Improved Lighting
+<img src="https://cdn.discordapp.com/attachments/687958553029509124/718056106554949682/unknown.png" height="500">
+### Game Manager
+<img src="https://i.imgur.com/xYkstvl.png" height="500">
+### Gijs' Great Debugging Guide
+https://docs.google.com/document/d/18lmthKy6kgsllIZpcdshQ4XnazigvZ1T5xHTVXVtZyw/edit?usp=sharing
+### 
+
+<hr/>
 ## My Learning Goals
 During this project there were certain things I wanted to learn, these were:
 
